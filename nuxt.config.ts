@@ -9,6 +9,6 @@ export default defineNuxtConfig({
     },
   },
   app: {
-    baseURL: "/nuxt-project",
+    baseURL: "/nuxt-project/docs",
   },
 });
