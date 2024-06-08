@@ -11,5 +11,5 @@ export default defineNuxtConfig({
   // app: {
   //   buildAssetsDir: "/docs/",
   // },
-  ssr: false,
+  // ssr: false,
 });
