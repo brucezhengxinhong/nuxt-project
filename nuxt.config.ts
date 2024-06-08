@@ -8,4 +8,7 @@ export default defineNuxtConfig({
       publicDir: "./docs",
     },
   },
+  router: {
+    base: "/",
+  },
 });
